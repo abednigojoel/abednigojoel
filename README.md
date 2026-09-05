@@ -47,3 +47,24 @@ Python
 Power BI
         ↓
 Artificial Intelligence
+```
+## Long-Term Direction
+
+My long-term direction is to work at the intersection of:
+
+**Healthcare × Clinical Research × Data × AI × Health Informatics**
+
+with a focus on practical solutions for healthcare in Africa.
+
+---
+
+## Portfolio
+
+This GitHub profile will document my learning, research, projects, analyses, and practical applications as I progress.
+
+---
+
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/abednigojoelakagwu)
+- [GitHub](https://github.com/abednigojoel)
