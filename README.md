@@ -1,74 +1,70 @@
 # Abednigo Joel Akagwu
 
-### Healthcare Researcher | Data Analyst | Healthcare AI & Health Informatics
+### Healthcare Research | Data Analytics | AI | Health Informatics
 
-I am building at the intersection of **healthcare, clinical research, data, artificial intelligence, and health informatics**.
+I am building practical capability at the intersection of healthcare, clinical research, data, and artificial intelligence.
 
-My long-term focus is on using data and technology to improve healthcare decision-making, strengthen health systems, and build practical digital infrastructure for healthcare in Africa.
+My focus is on learning how to use data and technology to improve healthcare decision-making and solve real healthcare problems.
 
+---
 
-
-## What I Am Building
-
-My learning and professional work currently focus on:
+## Current Learning
 
 - Clinical Research
-- Healthcare Data Analytics
-- Statistics & R
-- SQL & Databases
+- Excel
+- Data Analytics
+- SQL
 - Python
+- Statistics
 - Power BI
 - Artificial Intelligence
-- Machine Learning
-- Health Informatics
-- Digital Health
-- Healthcare Systems
-- Healthcare Entrepreneurship
 
+---
 
+## Current Learning Approach
 
-## My Learning Philosophy
+I learn by:
 
-I am not building a collection of certificates.
+**Learn → Practice → Build → Document → Explain**
 
-I am building **demonstrable capability**.
+My goal is not to collect certificates, but to develop demonstrable skills through practical projects and research.
 
-Every major area of learning is converted into:
+---
 
-**Problem → Data → Analysis → Insight → Solution → Communication → Implementation**
+## Current Learning Path
 
-My portfolio therefore documents projects, research, analyses, experiments, and practical applications.
+```text
+Clinical Research
+        ↓
+Data & Statistics
+        ↓
+Excel
+        ↓
+SQL
+        ↓
+Python
+        ↓
+Power BI
+        ↓
+Artificial Intelligence
+
+## Long-Term Direction
+
+My long-term direction is to work at the intersection of:
+
+**Healthcare × Clinical Research × Data × AI × Health Informatics**
+
+with a focus on practical solutions for healthcare in Africa.
+
+---
+
+## Portfolio
+
+This GitHub profile will document my learning, research, projects, analyses, and practical applications as I progress.
+
+---
 
 ## Connect
 
 - [LinkedIn](https://www.linkedin.com/in/abednigojoelakagwu)
 - [GitHub](https://github.com/abednigojoel)
-
-## Current Learning Path
-
-```text
-Healthcare
-    ↓
-Clinical Research
-    ↓
-Statistics
-    ↓
-SQL & Databases
-    ↓
-Python
-    ↓
-Data Analytics
-    ↓
-Power BI
-    ↓
-Machine Learning
-    ↓
-Artificial Intelligence
-    ↓
-Healthcare AI
-    ↓
-Health Informatics
-    ↓
-Entrepreneurship
-    ↓
-Real-World Healthcare Solutions
