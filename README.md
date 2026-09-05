@@ -39,7 +39,10 @@ Every major area of learning is converted into:
 
 My portfolio therefore documents projects, research, analyses, experiments, and practical applications.
 
+## Connect
 
+- [LinkedIn](https://www.linkedin.com/in/abednigojoelakagwu)
+- [GitHub](https://github.com/abednigojoel)
 
 ## Current Learning Path
 
@@ -69,8 +72,3 @@ Health Informatics
 Entrepreneurship
     ↓
 Real-World Healthcare Solutions
-
-## Connect
-
-[LinkedIn](https://www.linkedin.com/in/abednigojoelakagwu)
-[GitHub](https://github.com/abednigojoel)
