@@ -69,3 +69,8 @@ Health Informatics
 Entrepreneurship
     ↓
 Real-World Healthcare Solutions
+
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/abednigojoelakagwu)
+- [GitHub](https://github.com/abednigojoel)
